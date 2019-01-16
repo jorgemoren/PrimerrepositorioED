@@ -9,7 +9,7 @@ public class PruebaFor {
 		 * - tiene inicializado un contador
 		 * - el contador está implicado en la condición
 		 * - dentro de las sentencias de repetición se aumenta 
-		 * el contador
+		 * el contador. Hola
 		 */
 			
 		for (int x = 0; x < 10; x++) { 
